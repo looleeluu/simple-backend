@@ -8,8 +8,6 @@
   "private": true,
   "scripts": {
     "start": "tsc && node dist/index.js",
-    "start:build": "node dist/index.js",
-    "watch": "tsc -w",
     "build": "tsc",
     "clear": "rm -rf dist"
   },
